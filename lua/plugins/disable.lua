@@ -6,4 +6,6 @@ return {
   { "danymat/neogen", enabled = false },
   { "echasnovski/mini.surround", enabled = false },
   { "echasnovski/mini.icons", enabled = false },
+  { "leoluz/nvim-dap-go", enabled = false },
+  { "folke/ts-comments.nvim", enabled = false },
 }
